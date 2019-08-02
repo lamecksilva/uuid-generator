@@ -1,0 +1,29 @@
+{
+	"name": "uuid-generator",
+	"version": "0.1.0",
+	"description": "Generate a uuid in browser",
+	"main": "index.ts",
+	"scripts": {
+		"dev": "next"
+	},
+	"repository": "https://github.com/lamecksilva/uuid-generator.git",
+	"author": "lamecksilva <lameck2@hotmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"@material-ui/core": "^4.3.0",
+		"@zeit/next-sass": "^1.0.1",
+		"next": "^9.0.3",
+		"node-sass": "^4.12.0",
+		"react": "^16.8.6",
+		"react-dom": "^16.8.6",
+		"uuid": "^3.3.2"
+	},
+	"devDependencies": {
+		"@types/next": "^8.0.6",
+		"@types/react": "^16.8.24",
+		"@types/react-dom": "^16.8.5",
+		"@types/uuid": "^3.4.5",
+		"@zeit/next-typescript": "^1.1.1",
+		"typescript": "^3.5.3"
+	}
+}
